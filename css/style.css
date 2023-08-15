@@ -1,0 +1,134 @@
+/* <!--------------- start section 2 in the frist page (home page )------------> */
+/* .sec2{
+    background:url(../images/our_qualities_bg.png);
+    padding:90px 0px;
+   
+     
+
+}
+.qualityfood{
+    text-align: center;
+} */
+/* <!--------------- end section 2 in the frist page (home page )------------> */
+
+
+
+
+
+
+ 
+/* <!--start  choice of items --> */
+
+/* .price{
+
+    margin-right: -850px !important;
+}
+
+ 
+#select:hover {
+
+    background: rgb(231, 195, 15);
+}
+
+#next{
+
+    padding: 5px 15px;
+} */
+/* <!--end  choice of items --> */
+
+
+
+/* <!-- start website Settings --> */
+/* .form_header{
+    display: flex;
+    text-align: center;
+}
+#save{
+    justify-content: end;
+} */
+ /* <!-- end website Settings --> */
+
+
+
+/* start add new menu */
+ 
+ /* .upload{
+  
+  text-align: center;
+
+ }
+
+ .upload img{
+    border-radius: 50%;
+    border: 6px solid rgb(75, 107, 165);
+   
+ }
+  */
+
+ /* end add new menu */ 
+
+
+ /* <!-- star send messages --> */
+ /* .send_message{
+    background:url(../images/back_3.jpg);
+    padding:90px 0px;
+ 
+   
+}
+
+.left_part{
+    background-color: white;
+    padding: 30px;
+ 
+} */
+ 
+/* <!-- end send messages --> */
+ /* body{
+    background-color: rgb(244, 178, 81);
+ }
+ .left{
+    background-color: rgb(229, 225, 225);
+ }
+ h2,h6{
+    color: rgb(244, 178, 81) ;
+    text-decoration: underline;
+ }
+ .right{
+    background-color: white;
+ } */
+
+ .above{
+    position: relative;
+   margin: 0 auto;
+    
+ }
+ .reserve_img{
+   height: 500px;
+ }
+ .buttom{
+    margin-top: 20px;
+ }
+ .second{
+    background-color: rgba(0 0 0 /40%);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+ }
+ .third{
+    position: absolute;
+    bottom: 0;
+    
+ }
+ .drop{
+   border-color: grey;
+ }
+ #reserve{
+   color: aliceblue;
+ }
+ 
+
+
+ 
